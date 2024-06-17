@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   endpointslice-testing:
   - apiVersion: v2
+    appVersion: 3.20.0
+    created: "2024-06-17T09:34:42.7170887+09:00"
+    description: A Helm chart for Kubernetes
+    digest: e6262e803520faf8ef30991b4a394831d309b5ad1f3cd765c7a9719c8c61c111
+    name: endpointslice-testing
+    type: application
+    urls:
+    - endpointslice-testing-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-17T09:32:09.2831863+09:00"
+    created: "2024-06-17T09:34:42.7170887+09:00"
     description: A Helm chart for Kubernetes
     digest: 9ebd0e32382fb1be2f2fa4222745cd74d26b73518061d5bae1e729da34a9237a
     name: endpointslice-testing
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-17T09:32:09.2831863+09:00"
+    created: "2024-06-17T09:34:42.7165567+09:00"
     description: A Helm chart for Kubernetes
     digest: 0c8d19bec48a260da6cd198b8185f1bfd8983c87ccd630d73b3e333a841cb854
     name: endpointslice-testing
@@ -21,4 +31,4 @@ entries:
     urls:
     - endpointslice-testing-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-17T09:32:09.282671+09:00"
+generated: "2024-06-17T09:34:42.7160222+09:00"
